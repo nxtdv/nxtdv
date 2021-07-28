@@ -1,43 +1,30 @@
-<h1 align="center">HELLO WORLD</h1>
+<h3 align="center">
+  Welcome to n y t. profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
-  <b>🖤 Follow me here:</b><br>
-  <a href="https://github.com/nxtdv">Github</a>
-  <br><br>
-  <img src="https://media.giphy.com/media/R7m04yMaGWVeE/source.gif" alt="non"  width="250" />
-  <br><br>
+  <a href="https://github.com/nxtdv">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nxtdv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
-<h1 align="center">LANGUAGE</h1>
+## 🔥 Streak stats
 
-<p align="center"> 
-  <code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></code>&nbsp; |
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"></code>&nbsp; |
-  <code><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></code>&nbsp;
-</p>
-
-<h1 align="center">LEARN</h1>
-
-<p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>&nbsp; |
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>&nbsp; |
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>&nbsp;
-</p>
-
-<h1 align="center">FRAMEWORK</h1>
-
-<p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>&nbsp;
-</p>
-
-#
-<h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nxtdv?style=social">
-  <img src="https://img.shields.io/github/stars/nxtdv?style=social">
-  <img src="https://komarev.com/ghpvc/?username=nxtdv&color=blue">
-</p>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=nxtdv&theme=monokai-metallian&hide_border=true"/>
+  </a>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nxtdv&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="nxtdv's stats" /> </p>
+## 📊 Github stats
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxtdv&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nxtdv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxtdv&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nxtdv&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
