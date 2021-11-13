@@ -11,12 +11,13 @@
 ## 🔥 Streak stats
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<!--   [![nxtdv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nxtdv)](https://github.com/anuraghazra/github-readme-stats) -->
+
+  
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=nxtdv">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=nxtdv&theme=monokai-metallian&hide_border=true"/>
   </a>
   
-[![nxtdv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nxtdv)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📊 Github stats
 
 <details> 
