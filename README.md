@@ -8,7 +8,7 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nxtdv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
-## 🔥 Streak stats
+<!-- ## 🔥 Streak stats -->
 
 <p align="center">
 
