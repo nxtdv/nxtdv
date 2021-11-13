@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?nxtdv=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?nxtdv=nxtdv)](https://github.com/anuraghazra/github-readme-stats)
   
 ## 📊 Github stats
 
