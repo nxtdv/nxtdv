@@ -15,6 +15,9 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nxtdv&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
   
 <!--START_SECTION:waka-->
+```text
+Lua    5 hrs 30 mins   █████████████████████████   99.93 % 
+```
 <!--END_SECTION:waka-->
 
   
