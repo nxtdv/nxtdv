@@ -15,11 +15,16 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nxtdv&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
   
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   27 hrs 44 mins  ████████████████████████▒   96.87 % 
-JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript   29 hrs 3 mins   ███████████████████████░░   91.96 %
+JSON         1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+HTML         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Text         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+GraphQL      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
+
 <!--END_SECTION:waka-->
 
   
