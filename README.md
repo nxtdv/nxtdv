@@ -17,9 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Lua          2 hrs 27 mins   ███████████████████████░░   92.06 %
-JSON         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
