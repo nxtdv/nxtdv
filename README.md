@@ -5,9 +5,11 @@
 
 <p align="center">
   <a href="https://github.com/nxtdv">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nxtdv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nxtdv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+    
+     [![wakatime](https://wakatime.com/badge/user/6a4c39ea-8af3-410e-9b8f-7eefe8acc20e.svg)](https://wakatime.com/@6a4c39ea-8af3-410e-9b8f-7eefe8acc20e)
+  </a>
   
-  [![wakatime](https://wakatime.com/badge/user/6a4c39ea-8af3-410e-9b8f-7eefe8acc20e.svg)](https://wakatime.com/@6a4c39ea-8af3-410e-9b8f-7eefe8acc20e)
 </p>
 
 <!-- ## 🔥 Streak stats -->
